@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+tmp/
+
+# 本地 Python 环境与检查缓存。
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 重复交付压缩包；源码与正式 outputs 结果直接由 Git 管理。
+/moving_gates_python.zip
+
+# 本机配置与操作系统生成的文件。
+.env
+.env.*
+.DS_Store
+Thumbs.db
+desktop.ini

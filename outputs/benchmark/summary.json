@@ -1,0 +1,112 @@
+[
+  {
+    "preset": "distance_time",
+    "motion": "stationary",
+    "runs": 12,
+    "python_success_radius_1m": 1.0,
+    "python_success_threshold_2m": 1.0,
+    "python_crossing_time_s": 2.29945468073481,
+    "python_center_error_m": 0.2697641387148357,
+    "paper_success_radius_1m": 1.0,
+    "paper_crossing_time_s": 4.11
+  },
+  {
+    "preset": "distance_time",
+    "motion": "linear_slow",
+    "runs": 12,
+    "python_success_radius_1m": 1.0,
+    "python_success_threshold_2m": 1.0,
+    "python_crossing_time_s": 2.5042190421345265,
+    "python_center_error_m": 0.30045513546998176,
+    "paper_success_radius_1m": 1.0,
+    "paper_crossing_time_s": 4.03
+  },
+  {
+    "preset": "distance_time",
+    "motion": "linear_fast",
+    "runs": 12,
+    "python_success_radius_1m": 0.9166666666666666,
+    "python_success_threshold_2m": 1.0,
+    "python_crossing_time_s": 3.6989591973767593,
+    "python_center_error_m": 0.5833962839389043,
+    "paper_success_radius_1m": 0.67,
+    "paper_crossing_time_s": 5.41
+  },
+  {
+    "preset": "distance_time",
+    "motion": "planar",
+    "runs": 12,
+    "python_success_radius_1m": 1.0,
+    "python_success_threshold_2m": 1.0,
+    "python_crossing_time_s": 2.42223291601107,
+    "python_center_error_m": 0.2633313190625974,
+    "paper_success_radius_1m": 1.0,
+    "paper_crossing_time_s": 4.01
+  },
+  {
+    "preset": "distance_time",
+    "motion": "knot",
+    "runs": 12,
+    "python_success_radius_1m": 1.0,
+    "python_success_threshold_2m": 1.0,
+    "python_crossing_time_s": 2.2590691403684158,
+    "python_center_error_m": 0.24782011241536991,
+    "paper_success_radius_1m": 1.0,
+    "paper_crossing_time_s": 4.03
+  },
+  {
+    "preset": "distance",
+    "motion": "stationary",
+    "runs": 12,
+    "python_success_radius_1m": 1.0,
+    "python_success_threshold_2m": 1.0,
+    "python_crossing_time_s": 2.790695695165088,
+    "python_center_error_m": 0.14021329470202934,
+    "paper_success_radius_1m": 1.0,
+    "paper_crossing_time_s": 5.28
+  },
+  {
+    "preset": "distance",
+    "motion": "linear_slow",
+    "runs": 12,
+    "python_success_radius_1m": 0.3333333333333333,
+    "python_success_threshold_2m": 0.75,
+    "python_crossing_time_s": 3.6084333961797372,
+    "python_center_error_m": 1.4183270483868,
+    "paper_success_radius_1m": 1.0,
+    "paper_crossing_time_s": 5.35
+  },
+  {
+    "preset": "distance",
+    "motion": "linear_fast",
+    "runs": 12,
+    "python_success_radius_1m": 0.0,
+    "python_success_threshold_2m": 0.0,
+    "python_crossing_time_s": 3.8229033327623205,
+    "python_center_error_m": 10.817809126541079,
+    "paper_success_radius_1m": 0.92,
+    "paper_crossing_time_s": 5.8
+  },
+  {
+    "preset": "distance",
+    "motion": "planar",
+    "runs": 12,
+    "python_success_radius_1m": 0.75,
+    "python_success_threshold_2m": 1.0,
+    "python_crossing_time_s": 2.9645251385932383,
+    "python_center_error_m": 0.8140743035160892,
+    "paper_success_radius_1m": 0.5,
+    "paper_crossing_time_s": 5.76
+  },
+  {
+    "preset": "distance",
+    "motion": "knot",
+    "runs": 12,
+    "python_success_radius_1m": 1.0,
+    "python_success_threshold_2m": 1.0,
+    "python_crossing_time_s": 2.7581998133345778,
+    "python_center_error_m": 0.13596679123670488,
+    "paper_success_radius_1m": 1.0,
+    "paper_crossing_time_s": 5.41
+  }
+]

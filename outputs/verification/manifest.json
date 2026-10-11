@@ -1,0 +1,34 @@
+{
+  "python": "3.13.13",
+  "libraries": {
+    "numpy": "2.4.4",
+    "scipy": "1.17.1",
+    "matplotlib": "3.10.9",
+    "Pillow": "12.2.0"
+  },
+  "tests_passed": 11,
+  "full_pipeline_simulations": 957,
+  "additional_robustness_simulations": 1,
+  "source_sha256": {
+    "controller.py": "76e2476fe613585b1392f809730d76e836d8968f794d1f49f81f8cce522e7081",
+    "experiments.py": "0819aa9eb6b253a8398a51a6fe1bfc1c99901f366af4ad965048bb6596f1cd54",
+    "geometry.py": "d29eee5e5a7101abe889c2d7bc1a2c070469de953149564def02fce3c5a6e9dd",
+    "main.py": "9e6285fd62cbd3595b960c53ddc2b50f6ad0313b2358c930182e0701ed64bb21",
+    "reporting.py": "808193dcd9c4cbbd12ecdb2767f2dad2a1c5ecbc83a870919aad4e56489564bf",
+    "simulation.py": "c0d6d7d1d18b43518623ea764881f8d1b40c8f95ad12768e599635415b1a5c13",
+    "visualization.py": "1cd3804daff95ea7a863f7fa6633c31e20c830eb57921d92820ecc878f393712",
+    "tests/test_reproduction.py": "0ac45da43997eb21e8069885bd6a375a1fdbc592171cd3a1bb84a3cadeba10fa",
+    "README.md": "b3ea5adcbcfb47dddc7db821cad69843ba94dd48377dfc84238b54101fb13f89",
+    "requirements.txt": "25a50ae6691cdc5a7f25e286557ac66ad7607ae3fc6bc74fda1d1d3d5bd58805"
+  },
+  "readability_review": {
+    "executable_ast_unchanged": true,
+    "python_files_checked": 8,
+    "comments_and_docstrings": "Chinese explanations added",
+    "cleaned_residual_directories": [
+      "tmp",
+      "__pycache__",
+      "tests/__pycache__"
+    ]
+  }
+}

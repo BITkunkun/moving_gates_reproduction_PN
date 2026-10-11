@@ -1,0 +1,9 @@
+{
+  "evaluation": 17,
+  "k_pn": 1.7114408597038926,
+  "gamma_max_deg": 24.725091897113593,
+  "reward": 1.658406402606659,
+  "preset": "distance",
+  "training_cases_per_evaluation": 8,
+  "seed": 507
+}

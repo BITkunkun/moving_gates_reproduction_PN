@@ -1,0 +1,16 @@
+test_closed_form_matches_grid_optimum (test_reproduction.ControllerTests.test_closed_form_matches_grid_optimum) ... ok
+test_infeasible_normal_request_is_saturated (test_reproduction.ControllerTests.test_infeasible_normal_request_is_saturated) ... ok
+test_random_normal_requests_preserve_constraints (test_reproduction.ControllerTests.test_random_normal_requests_preserve_constraints) ... ok
+test_camera_rotation_does_not_create_target_motion (test_reproduction.GeometryAndCameraTests.test_camera_rotation_does_not_create_target_motion) ... ok
+test_delay_delivers_capture_time_measurement (test_reproduction.GeometryAndCameraTests.test_delay_delivers_capture_time_measurement) ... ok
+test_frame_is_orthonormal_and_quaternion_roundtrip (test_reproduction.GeometryAndCameraTests.test_frame_is_orthonormal_and_quaternion_roundtrip) ... ok
+test_pixels_recover_world_direction (test_reproduction.GeometryAndCameraTests.test_pixels_recover_world_direction) ... ok
+test_determinism_and_time_step_convergence (test_reproduction.PhysicsAndExperimentTests.test_determinism_and_time_step_convergence) ... ok
+test_five_motions_cross_the_actual_gate_plane (test_reproduction.PhysicsAndExperimentTests.test_five_motions_cross_the_actual_gate_plane) ... ok
+test_gp_ucb_is_finite_and_reward_handles_failures (test_reproduction.PhysicsAndExperimentTests.test_gp_ucb_is_finite_and_reward_handles_failures) ... ok
+test_hover_equilibrium_and_unit_quaternion (test_reproduction.PhysicsAndExperimentTests.test_hover_equilibrium_and_unit_quaternion) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.509s
+
+OK

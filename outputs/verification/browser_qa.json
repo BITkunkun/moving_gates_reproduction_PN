@@ -1,0 +1,13 @@
+{
+  "next_frame": true,
+  "previous_frame": true,
+  "last_frame": true,
+  "slower": true,
+  "speed_restored": true,
+  "slider": true,
+  "play": true,
+  "pause": true,
+  "frames": 69,
+  "loaded_image_width": 1280,
+  "external_resources": 0
+}
